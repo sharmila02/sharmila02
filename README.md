@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<!--
+
 
 **sharmila02/sharmila02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,4 +14,5 @@
 - 📫 How to reach me: Secret!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Give me wire I'll turn it into a rose
+-->
 
